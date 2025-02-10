@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **beorsi/beorsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,8 +28,8 @@ Here are some ideas to get you started:
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=beorsi&show_icons=true&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=beorsi&layout=compact&theme=radical)  
 
 ## 📫 Como me encontrar
 
