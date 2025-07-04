@@ -20,36 +20,25 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" alt="swift logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" width="60" alt="cplusplus logo" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" width="60" alt="csharp logo" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" width="60" alt="css3 logo" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=dart" height="60" width="60" alt="dart logo" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" width="60" alt="flutter logo" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" width="60" alt="git logo" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" width="60" alt="github logo" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" width="60" alt="html5 logo" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" width="60" alt="javascript logo" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60" width="60" alt="kotlin logo" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" width="60" alt="mysql logo" style="margin-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" width="60" alt="nestjs logo" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" width="60" alt="php logo" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" width="60" alt="python logo" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" width="60" alt="swift logo" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" width="60" alt="typescript logo" style="margin-right:10px;" />
 </div>
+
+
 
 ###
 
