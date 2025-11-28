@@ -1,52 +1,18 @@
-<h1 align="center">Hello, I'm Bernardo Orsi! 👋</h1>
-
-###
-
-<div align="center">
-  <a href="beorsi10@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/bernardo-orsi-do-amaral-5242ba336/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<p align="left">I'm  a brazilian developer that has some experience in web development but I am excited to enter the game development area.</p>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" width="60" alt="cplusplus logo" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" width="60" alt="csharp logo" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" width="60" alt="css3 logo" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=dart" height="60" width="60" alt="dart logo" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="60" width="60" alt="flutter logo" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" width="60" alt="git logo" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" width="60" alt="github logo" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" width="60" alt="html5 logo" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" width="60" alt="javascript logo" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="60" width="60" alt="kotlin logo" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" width="60" alt="mysql logo" style="margin-right:10px;" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" width="60" alt="nestjs logo" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" width="60" alt="php logo" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" width="60" alt="python logo" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" width="60" alt="swift logo" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" width="60" alt="typescript logo" style="margin-right:10px;" />
-</div>
+# 💫 About Me:
+I'm a brazilian developer that has some experience in web development but I am excited to enter the game development area.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BernardoOrsidoAmaral) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beorsi10@gmail.com) 
 
-###
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=beorsi&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=beorsi&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=beorsi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beorsi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=beorsi&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beorsi&radius=16&theme=dracula&area=false&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=beorsi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=beorsi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
